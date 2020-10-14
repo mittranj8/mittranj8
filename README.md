@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mittranj</h1>
-<h3 align="center">I'm a recent Graduate, Passionate Software Developer, and a Learner!</h3>
+<h1 align="center">Hello there 👋, I'm Mittranj Pansuriya</h1>
+<h3 align="center">I'm a recent Graduate, passionate Software Developer, and a Learner!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mittranj8&label=Profile%20views&color=0e75b6&style=flat" alt="mittranj8" /> </p>
 
+<h3 align="left">Here's something about myself: </h3>
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/mittranj8/netflix-clone-react)👨‍💻
 
 - 🌱 I’m currently learning **React and React Native**
 
 - 💬 Ask me about **JavaScript and component-based frameworks**
+
+- 👯 I’m always looking to create fascinating contents with other content creators
+
+- 🥅 2020 Goals: Contribute more to Open Source Projects
 
 - 📫 How to reach me **mittranj.pansuriya@gmail.com**
 
