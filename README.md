@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **JavaScript and component-based frameworks**
 
-- 👯 I’m always looking to create fascinating contents with other content creators
-
-- 🥅 2020 Goals: Contribute more to Open Source Projects
+- 🥅 2020 Goals: Contribute more to Open Source Projects and get a full-time job
 
 - 📫 How to reach me **mittranj.pansuriya@gmail.com**
 
