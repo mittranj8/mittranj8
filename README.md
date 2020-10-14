@@ -25,7 +25,7 @@
 
 <h3 align="left">My Profile Stats and Trophies: 🔢🏆</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mittranj8&layout=compact&theme=chartreuse-dark" alt="mittranj8" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.mittranj8.vercel.app/api?username=mittranj8&show_icons=true&hide_border=true&theme=chartreuse-dark" alt="mittranj8" /></p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mittranj8" alt="mittranj8" /></a> </p>
