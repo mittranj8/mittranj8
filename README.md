@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mittranj</h1>
 <h3 align="center">I'm a recent Graduate, Passionate Software Developer, and a Learner!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mittranj8&label=Profile%20views&color=0e75b6&style=flat" alt="mittranj8" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mittranj8" alt="mittranj8" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mittranj8&label=Profile%20views&color=0e75b6&style=flat" alt="mittranj8" /> </p>
 
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/mittranj8/netflix-clone-react)
 
@@ -28,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mittranj8&layout=compact" alt="mittranj8" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mittranj8&show_icons=true" alt="mittranj8" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mittranj8" alt="mittranj8" /></a> </p>
