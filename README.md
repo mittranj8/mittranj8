@@ -3,8 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mittranj8&label=Profile%20views&color=0e75b6&style=flat" alt="mittranj8" /> </p>
 
-<h3 align="left">Here's something about myself: </h3>
-- 🔭 I’m currently working on [Netflix Clone](https://github.com/mittranj8/netflix-clone-react)👨‍💻
+<h3 align="left">Here's something about myself: 👨‍💻</h3>
+- 🔭 I’m currently working on [Netflix Clone](https://github.com/mittranj8/netflix-clone-react)
 
 - 🌱 I’m currently learning **React and React Native**
 
