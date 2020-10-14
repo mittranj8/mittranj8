@@ -5,7 +5,6 @@
 
 <h3 align="left">Here's something about myself: 👨‍💻</h3>
 <hr>
-
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/mittranj8/netflix-clone-react)
 
 - 🌱 I’m currently learning **React and React Native**
