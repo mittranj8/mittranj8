@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mittranj8&label=Profile%20views&color=0e75b6&style=flat" alt="mittranj8" /> </p>
 
-<img align='right' src="https://github.com/mittranj8/mittranj8/blob/main/designer__isometric.svg" width="230">
+<img align='right' src="https://github.com/mittranj8/mittranj8/blob/main/designer__isometric.svg" height="350" width="400">
 
 <h3 align="left">Something about myself: 👨‍💻</h3>
 
