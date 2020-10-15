@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Mittranj Pansuriya</h1>
-<h3 align="center">Recent Graduate 👨‍🎓 Passionate Software Developer 😁 Frontend Developer 💻 Learner 🤓 Self-Starter 🤩</h3>
+<h3 align="center">Recent Graduate 👨‍🎓 Passionate Software Developer 😁 Frontend Developer 💻 Self-Starter 🤩</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mittranj8&label=Profile%20views&color=0e75b6&style=flat" alt="mittranj8" /> </p>
 
@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **JavaScript and component-based frameworks**
 
-- 🥅 2020 Goals: Contribute more to Open Source Projects and get a Full-time Job
+- 🎯 2020 Goal: Get a Full-time Job
+
+- 🥅 Future Goal: Contribute more to Open Source Projects
 
 - 📫 How to reach me **mittranj.pansuriya@gmail.com**
 
