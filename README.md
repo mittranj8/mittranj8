@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **JavaScript and component-based frameworks**
 
-- 🎯 2020 Goal: Get a Full-time Job
-
 - 🥅 Future Goal: Contribute more to Open Source Projects
 
 - 📫 How to reach me **mittranj.pansuriya@gmail.com**
